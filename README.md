@@ -47,22 +47,31 @@ This course follows regulations regarding to KAIST and South Korea government.
 
 ## Course
 This course consists of lectures, readings, discussions, quizzes, and team projects.
+Students will be asked to do these following things.
+| Tasks                     | Descriptions                                                                                                                                                          |             |            |
+|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|------------|
+| Project                   | <ul><br><li>Proposal, progress update, final presentation</li><br><li>Final report</li><br><li>Peer review</li><br><li>Teamwork report</li><br></ul>                  | 1x          | Team       |
+| Paper Presentation        | <ul><br><li> 30-minute presentation on a topic according to the schedule</li><br><li>1 or 2 papers (will depend on the amount of content in the papers)</li><br></ul> | 1x          | Team       |
+| Discussion Prompt         | <ul><br><li>Write 3 discussion prompts about a paper</li><br></ul>                                                                                                    | 2x          | Individual |
+| Discussion Presentation   | <ul><br><li>Present the discussion of the paper based on their report</li><br></ul>                                                                                   | 1x          | Team       |
+| Paper Reading Reflections | <ul><br><li>Write a review/reflections of the paper</li><br></ul>                                                 | 2x          | Individual |
+| Quiz                      |                                                                                                                                                                       | Every Class | Individual |
 
 ### Lecture
 Lecturer or student groups will give lecture of each topic by each day.
 
-### Reading
+### Reading Reflections
 Students will read, present, and think about latest research from the reading list which is published in AI and ML conferences (e.g., NeurIPS, ICLR, ACL, CVPR, FAccT) related to ethical considerations.
 Readings may also include blog posts, articles in the media, online forum discussions, and publications from global governing bodies.
 * Choose a paper related to the topic of the lecture from the [reading list]().
-* Read the paper before the discussion and prepare some questions to be discussed.
+* Read the paper before the discussion and write a 1-page reflections of the paper including summary, strengths, limitations, and suggestions.
 
 ### Discussion
 Students will lead peers to discuss the readings with thought-provoking questions.
 You will challenge the findings in the articles as to their accurate reporting and interpretation; you will discuss relevance to the current time and various locales with different cultural backgrounds.
 You will present and discuss ideas for future research directions in AI and ethics.
 * 20 in-class discussion (see schedule).
-* Organize a group of 3-4 people, and have time to present what you read and discuss
+* Organize a group of 3 people, and have time to present what you read and discuss
 * All groups should submit their result at the end of class.
 * See the details on this [page](https://uilab-kaist.github.io/cs575-ethics-spring-2023/discussion).
 
