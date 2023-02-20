@@ -6,8 +6,6 @@ You will be asked to
 3. participate in group discussion 
 4. submit the discussion report on [Google Drive]()
 
-Discussion is mainly team-based with 3-4 people.
-
 ## Discussion Prompt
 - Some students assigned to this discussion will prepare the discussion prompts.
 - Please refer to the following examples for the discussion prompt.
@@ -23,15 +21,15 @@ Discussion is mainly team-based with 3-4 people.
 - Everyone should read the selected papers before the discussion.
 
 ## Discussion
-- Each team consisting of 3-4 students will do a discussion starting from the prompt.
+- Each team consisting of three students will do a discussion starting from the prompt.
 - The team will be the same when working on a project.
 - Students will be asked to be randomly grouped in every class until the team is signed up.
 - Every team should write the discussion report on Google Drive during the class.
 - If you do not have a team yet, you should submit a discussion report individually.
 - Your attendance will be checked based on the discussion report.
 ```
-Name: Alice, Bob, Carol, Dave
-Student ID: 20231111, 20232222, 20233333, 20234444
+Name: Alice, Bob, Carol
+Student ID: 20231111, 20232222, 20233333
 Date: YYMMDD
 Prompt 1: 
 Discussion: 
