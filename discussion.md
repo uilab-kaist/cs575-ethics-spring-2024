@@ -28,6 +28,7 @@ Discussion is mainly team-based with 3-4 people.
 - Students will be asked to be randomly grouped in every class until the team is signed up.
 - Every team should write the discussion report on Google Drive during the class.
 - If you do not have a team yet, you should submit a discussion report individually.
+- Your attendance will be checked based on the discussion report.
 ```
 Name: Alice, Bob, Carol, Dave
 Student ID: 20231111, 20232222, 20233333, 20234444
