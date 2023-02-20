@@ -30,9 +30,9 @@ This course follows regulations regarding to KAIST and South Korea government.
 |:-----:|:-----------------------------------------:|:-------------------------------:|:---------------------------------------------:|:--------------:|:--------------------------:|
 |   1   | 02/27                                     | Introduction | Introduction | 03/01 Holiday | |
 |   2   | 03/06, 03/08                              | Discussion ([Slides]())<br/> Discussion ([Slides]())    | Bias in AI/ML Systems | | |
-|   3   | 03/13, 03/15                              | Discussion  <br/> Discussion    | Tocixity and Misinformation in Genrative Models | | |
+|   3   | 03/13, 03/15                              | Discussion  <br/> Discussion    | Tocixity and Misinformation in Genrative Models | | Choose Teams |
 |   4   | 03/20, 03/22                              | Discussion  <br/> Discussion    | Privacy Issues in Data & Models      | | |
-|   5   | 03/27, 03/29                              | Discussion  <br/> Discussion    | Explainable AI         | | Choose Teams |
+|   5   | 03/27, 03/29                              | Discussion  <br/> Discussion    | Explainable AI         | | |
 |   6   | 04/03, 04/05                              | Discussion  <br/> Discussion    | Trustworthy AI                             | | |
 |   7   | 04/10, 04/12                              | Discussion  <br/> Discussion | Societal Imapct & AI Divide | | |
 |   8   | 04/17, 04/19                              | Project Presentations <br/> Project Presentations | | | Proposal, Peer-review |
@@ -64,7 +64,7 @@ You will present and discuss ideas for future research directions in AI and ethi
 * 20 in-class discussion (see schedule).
 * Organize a group of 3-4 people, and have time to present what you read and discuss
 * All groups should submit their result at the end of class.
-* See the details on this [page]().
+* See the details on this [page](https://uilab-kaist.github.io/cs575-ethics-spring-2023/discussion).
 
 ### Quiz
 TBD
@@ -72,7 +72,7 @@ TBD
 ### Team Project
 Team project will be a major part of the class, especially during the second half.
 Projects will be basically replications or modifications of recent research in AI Ethics.
-See the details on this [page]().
+See the details on this [page](https://uilab-kaist.github.io/cs575-ethics-spring-2023/project).
 
 
 ## Evaluation (Subject to Change)
