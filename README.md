@@ -75,13 +75,17 @@ You will present and discuss ideas for future research directions in AI and ethi
 * All groups should submit their result at the end of class.
 * See the details on this [page](https://uilab-kaist.github.io/cs575-ethics-spring-2023/discussion).
 
-### Quiz
-TBD
-
 ### Team Project
 Team project will be a major part of the class, especially during the second half.
 Projects will be basically replications or modifications of recent research in AI Ethics.
 See the details on this [page](https://uilab-kaist.github.io/cs575-ethics-spring-2023/project).
+
+### Policy on Large Language Models
+Recent progress in large-scale language models (LLM), such as ChatGPT, motivate explicit policies.
+* The entire course policy is **LLM-agnostic**: no grader will ever evaluate your submission differently because they suspect it was genereted by an LLM.
+* You are free to use an LLM as long as you **acknowledge** it.
+* You are ultimately responsible for whatever you submit like with any other online tool.
+* You will be asked to state how you are assisted by LLM in the end of the semester to evolve in future courses.
 
 ## Evaluation (Subject to Change)
 * Participation and Attendance: 2
