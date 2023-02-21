@@ -18,7 +18,7 @@
 This project aims to replicate an existing paper on ethical issues in machine learning, and then make meaningful improvements/extensions in terms of research question, machine learning model, features, datasets, or evaluation metrics.
 
 ## Teams
-This is a team-based project. Please form teams of **3-4 students** by **March 13**. If you need help forming teams, advertise yourself and find your teammate in **TBD**.
+This is a team-based project. Please form teams of **3 students** by **March 13**. If you need help forming teams, advertise yourself and find your teammate in **TBD**.
 
 ## Project Grading (50% of Course Grade)
 - **Proposal presentation**: 5%
