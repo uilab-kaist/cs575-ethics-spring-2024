@@ -5,7 +5,7 @@
 All contents in this document are tentative.
 
 ## Announcement
-* Please join slack/classum/klms
+* [20230227] Join slack channel: [Invitation Link]()
 
 ## COVID-19
 Most classes will be in-person but will be recorded for those who are not able to attend. Some classes may be online.
@@ -30,17 +30,17 @@ This course follows regulations regarding to KAIST and South Korea government.
 |:-----:|:-----------------------------------------:|:-------------------------------:|:---------------------------------------------:|:--------------:|:--------------------------:|
 |   1   | 02/27                                     | Introduction | Introduction | 03/01 Holiday | |
 |   2   | 03/06, 03/08                              | Discussion ([Slides]())<br/> Discussion ([Slides]())    | Bias in AI/ML Systems | | |
-|   3   | 03/13, 03/15                              | Discussion  <br/> Discussion    | Tocixity and Misinformation in Genrative Models | | Choose Teams |
+|   3   | 03/13, 03/15                              | Discussion  <br/> Discussion    | Generative AI <br/>Tocixity and Misinformation in Genrative Models | | Choose Teams |
 |   4   | 03/20, 03/22                              | Discussion  <br/> Discussion    | Privacy Issues in Data & Models      | | |
 |   5   | 03/27, 03/29                              | Discussion  <br/> Discussion    | Explainable AI         | | |
 |   6   | 04/03, 04/05                              | Discussion  <br/> Discussion    | Trustworthy AI                             | | |
-|   7   | 04/10, 04/12                              | Discussion  <br/> Discussion | Societal Imapct & AI Divide | | |
-|   8   | 04/17, 04/19                              | Project Presentations <br/> Project Presentations | | | Proposal, Peer-review |
-|   9   | 04/24, 04/26                              | Discussion  <br/> Discussion    | Societal Impact & Environment | | |
-|   10  | 05/01, 05/03                              | Discussion  <br/> Discussion    | AI for Social Good (Healthcare & Drug Discovery) | | |
+|   7   | 04/10, 04/12                              | Project Presentations <br/> Project Presentations | | | Proposal, Peer-review |
+|   8   | 04/17, 04/19                              | No Class (Midterm Exam) | | | ||
+|   9   | 04/24, 04/26                              | Discussion  <br/> Discussion    | Societal Imapct & AI Divide | | |
+|   10  | 05/01, 05/03                              | Discussion  <br/> Discussion    | Societal Impact & Environment | | |
 |   11  | 05/08, 05/10                              | Project Presentations <br/> Project Presentations    | | | Project Progress, Peer-review |
-|   12  | 05/15, 05/17                              | Discussion  <br/> Discussion    | AI for Social Good (Environment & Food Production) | | |
-|   13  | 05/22, 05/24                              | Discussion  <br/> Discussion    | AI for Social Good (Education and Democracy) | | |
+|   12  | 05/15, 05/17                              | Discussion  <br/> Discussion    | AI for Social Good (Healthcare, Drug Discovery, and Food Production) | | |
+|   13  | 05/22, 05/24                              | Discussion  <br/> Discussion    | AI for Social Good (Environment, Education, and Democracy) | | |
 |   14  | 05/29, 05/31                              | Wrap-up     <br/> Wrap-up       |	| | |
 |   15  | 06/05, 06/07                              | Project Presentations <br/> Project Presentations | | | Final Presentation, Peer-review|
 |   16  | 06/12, 06/14                              | No Class (Final Exam)           |                           | | Final Report |
@@ -83,9 +83,8 @@ Team project will be a major part of the class, especially during the second hal
 Projects will be basically replications or modifications of recent research in AI Ethics.
 See the details on this [page](https://uilab-kaist.github.io/cs575-ethics-spring-2023/project).
 
-
 ## Evaluation (Subject to Change)
-**If you actively and honestly participate in every discussion and do the project you will get at least B- *(Project will be be a way to divide A+~B- in this case)*.**
-* Participation and Attendance: 20%
-* Quizzes: 30%
+* Participation and Attendance: 2
+  0%
+* In-class Discussion / Reading Reflections: 30%
 * Project: 50%
