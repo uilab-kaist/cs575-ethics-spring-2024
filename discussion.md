@@ -4,7 +4,7 @@ You will be asked to
 1. read the selected paper before the class
 2. listen to the presentation
 3. participate in group discussion 
-4. submit the discussion report on [Google Drive]()
+4. submit the discussion report on [Google Drive](https://drive.google.com/drive/folders/1oNIq80N814MHkvz53QDUOpgTbaY1MhUT?usp=share_link)
 
 ## Discussion Prompt
 - Some students assigned to this discussion will prepare the discussion prompts.
