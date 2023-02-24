@@ -26,6 +26,7 @@ This course follows regulations regarding to KAIST and South Korea government.
 * Knowledge of machine learning and deep learning (CS376, CS470, or CS570)
 
 ## Schedule (Subject to Change)
+
 |  week |                    Day                    |                Type             |                      Topic                    |      notes     |           Project          |
 |:-----:|:-----------------------------------------:|:-------------------------------:|:---------------------------------------------:|:--------------:|:--------------------------:|
 |   1   | 02/27                                     | Introduction | Introduction | 03/01 Holiday | |
@@ -48,6 +49,7 @@ This course follows regulations regarding to KAIST and South Korea government.
 ## Course
 This course consists of lectures, readings, discussions, quizzes, and team projects.
 Students will be asked to do these following things.
+
 | Tasks                     | Descriptions                                                                                                                                                 |             |            |
 |---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|------------|
 | Project                   | <ul> <li>Proposal, progress update, final presentation</li> <li>Final report</li> <li>Peer review</li> <li>Teamwork report</li> </ul>                        | 1x          | Team       |
