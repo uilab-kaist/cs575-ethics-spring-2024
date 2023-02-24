@@ -52,12 +52,11 @@ Students will be asked to do these following things.
 
 | Tasks                     | Descriptions                                                                                                                                                 |             |            |
 |---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|------------|
-| Project                   | <ul> <li>Proposal, progress update, final presentation</li> <li>Final report</li> <li>Peer review</li> <li>Teamwork report</li> </ul>                        | 1x          | Team       |
-| Paper Presentation        | <ul> <li> 30-minute presentation on a topic according to the schedule</li> <li>1 or 2 papers (will depend on the amount of content in the papers)</li> </ul> | 1x          | Team       |
-| Discussion Prompt         | <ul> <li>Write 3 discussion prompts about a paper</li> </ul>                                                                                                 | 2x          | Individual |
-| Discussion Presentation   | <ul> <li>Present the discussion of the paper based on their report</li> </ul>                                                                                | 1x          | Team       |
-| Paper Reading Reflections | <ul> <li>Write a reflections of the paper</li> <ul>                                                                                                          | 2x          | Individual |
-| Quiz                      |                                                                                                                                                              | Every Class | Individual |
+| Project                   | Proposal, progress update, final presentation / Final report / Peer review / Teamwork report | 1x          | Team       |
+| Paper Presentation        | 30-minute presentation with 1 or 2 papers on a topic according to the schedule (will depend on the amount of content in the papers) | 1x          | Team       |
+| Discussion Prompt         | Write 3 discussion prompts about a paper                                                                                                | 2x          | Individual |
+| Discussion Presentation   | Present the discussion of the paper based on their report                                                                                | 1x          | Team       |
+| Paper Reading Reflections | Write a reflections of the paper                                                                                                          | 2x          | Individual |
 
 ### Lecture
 Lecturer or student groups will give lecture of each topic by each day.
