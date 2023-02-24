@@ -36,7 +36,7 @@ This course follows regulations regarding to KAIST and South Korea government.
 |   5   | 03/27, 03/29                              | Discussion  <br/> Discussion    | Explainable AI         | | |
 |   6   | 04/03, 04/05                              | Discussion  <br/> Discussion    | Trustworthy AI                             | | |
 |   7   | 04/10, 04/12                              | Project Presentations <br/> Project Presentations | | | Proposal, Peer-review |
-|   8   | 04/17, 04/19                              | No Class (Midterm Exam) | | | ||
+|   8   | 04/17, 04/19                              | No Class (Midterm Exam) | | | |
 |   9   | 04/24, 04/26                              | Discussion  <br/> Discussion    | Societal Imapct & AI Divide | | |
 |   10  | 05/01, 05/03                              | Discussion  <br/> Discussion    | Societal Impact & Environment | | |
 |   11  | 05/08, 05/10                              | Project Presentations <br/> Project Presentations    | | | Project Progress, Peer-review |
