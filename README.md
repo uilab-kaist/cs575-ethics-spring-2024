@@ -89,7 +89,6 @@ Recent progress in large-scale language models (LLM), such as ChatGPT, motivate 
 * You will be asked to state how you are assisted by LLM in the end of the semester to evolve in future courses.
 
 ## Evaluation (Subject to Change)
-* Participation and Attendance: 2
-  0%
+* Participation and Attendance: 20%
 * In-class Discussion / Reading Reflections: 30%
 * Project: 50%
