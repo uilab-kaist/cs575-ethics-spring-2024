@@ -31,7 +31,7 @@ This course follows regulations regarding to KAIST and South Korea government.
 |:-----:|:-----------------------------------------:|:-------------------------------:|:---------------------------------------------:|:--------------:|:--------------------------:|
 |   1   | 02/27                                     | Introduction | Introduction | 03/01 Holiday | |
 |   2   | 03/06, 03/08                              | Discussion <br/> Discussion     | Bias in AI/ML Systems | | |
-|   3   | 03/13, 03/15                              | Discussion  <br/> Discussion    | Generative AI <br/>Tocixity and Misinformation in Genrative Models | | Choose Teams |
+|   3   | 03/13, 03/15                              | Discussion  <br/> Discussion    | Generative AI <br/>Tocixity and Misinformation in Generative Models | | Choose Teams |
 |   4   | 03/20, 03/22                              | Discussion  <br/> Discussion    | Privacy Issues in Data & Models      | | |
 |   5   | 03/27, 03/29                              | Discussion  <br/> Discussion    | Explainable AI         | | |
 |   6   | 04/03, 04/05                              | Discussion  <br/> Discussion    | Trustworthy AI                             | | |
