@@ -30,7 +30,7 @@ This course follows regulations regarding to KAIST and South Korea government.
 |  week |                    Day                    |                Type             |                      Topic                    |      notes     |           Project          |
 |:-----:|:-----------------------------------------:|:-------------------------------:|:---------------------------------------------:|:--------------:|:--------------------------:|
 |   1   | 02/27                                     | Introduction | Introduction | 03/01 Holiday | |
-|   2   | 03/06, 03/08                              | Discussion ([Slides]())<br/> Discussion ([Slides]())    | Bias in AI/ML Systems | | |
+|   2   | 03/06, 03/08                              | Discussion <br/> Discussion     | Bias in AI/ML Systems | | |
 |   3   | 03/13, 03/15                              | Discussion  <br/> Discussion    | Generative AI <br/>Tocixity and Misinformation in Genrative Models | | Choose Teams |
 |   4   | 03/20, 03/22                              | Discussion  <br/> Discussion    | Privacy Issues in Data & Models      | | |
 |   5   | 03/27, 03/29                              | Discussion  <br/> Discussion    | Explainable AI         | | |
@@ -64,7 +64,7 @@ Lecturer or student groups will give lecture of each topic by each day.
 ### Reading Reflections
 Students will read, present, and think about latest research from the reading list which is published in AI and ML conferences (e.g., NeurIPS, ICLR, ACL, CVPR, FAccT) related to ethical considerations.
 Readings may also include blog posts, articles in the media, online forum discussions, and publications from global governing bodies.
-* Choose a paper related to the topic of the lecture from the [reading list]().
+* Choose a paper related to the topic of the lecture from the [reading list](https://docs.google.com/spreadsheets/d/1MG2dAGy_JhvHdrXhp6LNvicH7Yw13Hfxcth8PLqZdYc/edit?usp=sharing).
 * Read the paper before the discussion and write a 1-page reflections of the paper including summary, strengths, limitations, and suggestions.
 
 ### Discussion
