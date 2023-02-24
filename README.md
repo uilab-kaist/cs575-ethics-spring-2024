@@ -5,7 +5,7 @@
 All contents in this document are tentative.
 
 ## Announcement
-* [20230227] Join slack channel: [Invitation Link]()
+* [20230227] Join slack channel: [Invitation Link](https://join.slack.com/t/cs575aiethics-4cm8982/shared_invite/zt-1pzkxd0qs-IMcnopU~o4u4DpwzhcXIVw)
 
 ## COVID-19
 Most classes will be in-person but will be recorded for those who are not able to attend. Some classes may be online.
