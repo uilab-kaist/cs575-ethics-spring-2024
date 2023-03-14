@@ -5,6 +5,8 @@
 All contents in this document are tentative.
 
 ## Announcement
+* [20230314] No offline class on Mar 22 (Wed); Instead, watch the recorded video and submit your discussion report on Google Drive by the end of the day (23:59, Mar 22)
+* [20230314] Check out the schedule for paper presentation, discussion presentation, discussion questions, reading reflections
 * [20230308] Submit two Google Forms ([Group](https://forms.gle/vSgkkBsX1LZ7PE3o8), [Individual](https://forms.gle/NRDtcrZ7ooxgE1cV9)) by 23:59 today
 * [20230306] No offline class today; Instead, watch the recorded video and submit your discussion report on Google Drive
 * [20230227] Submit [Lecture 1 Survey](https://forms.gle/yTDHjoiphBSdQEwr8)
