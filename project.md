@@ -2,7 +2,7 @@
 
 ## Schedule
 - Week  3 (3/13): **Team matching, Topic exploration**
-- Week  8 (4/17, 4/19): **Project proposal, Peer grading**
+- Week  8 (4/10, 4/12): **Project proposal, Peer grading**
   - Slides submission deadline: **23:59, April 16, 2023**
   - Peer grading: Real-time
 - Week 11 (5/8, 5/10): **Progress Update, Peer grading**
@@ -86,9 +86,9 @@ Give a **10-15 minute final presentation** and submit a **4-6 page (+ unlimited 
 - **References** (unlimited pages)
 
 ## Peer Grading
-- We will use Google form (TBD) and it will be done in the lecture.
+- We will use Google form and it will be done in the lecture.
 - Everyone (individually) should grade and comment on
-  - Proposal presentations
+  - [Proposal presentations](https://forms.gle/NYkBLCXCQu4heGMB8)
   - Progress presentations
   - Final presentations & reports
 
