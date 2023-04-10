@@ -3,7 +3,7 @@
 ## Schedule
 - Week  3 (3/13): **Team matching, Topic exploration**
 - Week  8 (4/10, 4/12): **Project proposal, Peer grading**
-  - Slides submission deadline: **23:59, April 16, 2023**
+  - Slides submission deadline: **23:59, April 9, 2023**
   - Peer grading: Real-time
 - Week 11 (5/8, 5/10): **Progress Update, Peer grading**
   - Slides submission deadline: **23:59, May 7, 2023**
