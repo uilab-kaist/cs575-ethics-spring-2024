@@ -4,17 +4,13 @@
 
 All contents in this document are tentative.
 ## Important Schedule about the lectures.
-* [20230228]No offline class today; Instead, watch the recorded video.
-* [20230304] No offline class today; The lecture will be via Zoom. [Zoom Link](https://kaist.zoom.us/my/aliceatkaist)
-* [20230306] No Class ! Have a break :) 
+* [20240228] No offline class today; Instead, watch the recorded video.
+* [20240304] No offline class today; The lecture will be via Zoom. [Zoom Link](https://kaist.zoom.us/my/aliceatkaist)
+* [20240306] No Class ! Have a break :) 
 ## Announcement
-* [20230311] Submit Google Forms about team sign-up. ([Group](https://forms.gle/vSgkkBsX1LZ7PE3o8)) by 23:59 Mar 11(Mon).
-* [20230226] Submit [Lecture 1 Survey](https://forms.gle/yTDHjoiphBSdQEwr8)
-* [20230226] Join slack channel: [Invitation Link](https://join.slack.com/t/cs575-2023-spring/shared_invite/zt-1pzkxd0qs-IMcnopU~o4u4DpwzhcXIVw)
-
-## COVID-19
-Most classes will be in-person but will be recorded for those who are not able to attend. Some classes may be online.
-This course follows regulations regarding KAIST and the South Korean government.
+* [20240311] Submit Google Forms about team sign-up. ([Group](https://forms.gle/vSgkkBsX1LZ7PE3o8)) by 23:59 Mar 11(Mon).
+* [20240226] Submit [Lecture 1 Survey](https://forms.gle/yTDHjoiphBSdQEwr8)
+* [20240226] Join slack channel: [Invitation Link](https://join.slack.com/t/cs575-2023-spring/shared_invite/zt-1pzkxd0qs-IMcnopU~o4u4DpwzhcXIVw)
 
 ## Teaching Staff
 * Lecturer: [Alice Oh](https://aliceoh9.github.io)
