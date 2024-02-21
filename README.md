@@ -69,7 +69,7 @@ Lecturer or student groups will give a lecture on each topic by each day.
 ### Reading Reflections
 Students will read, present, and think about the latest research from the reading list published in AI and ML conferences (e.g., NeurIPS, ICLR, ACL, CVPR, FAccT) related to ethical considerations.
 Readings may also include blog posts, articles in the media, online forum discussions, and publications from global governing bodies.
-* Choose a paper related to the lecture topic from the [reading list](https://docs.google.com/spreadsheets/d/1MG2dAGy_JhvHdrXhp6LNvicH7Yw13Hfxcth8PLqZdYc/edit?usp=sharing).
+* Choose a paper related to the lecture topic from the [reading list](https://docs.google.com/spreadsheets/d/1xi2Z7hNtFZtil06slEcVAPT-QZEp4g-s/edit?usp=sharing&ouid=101739498740245968759&rtpof=true&sd=true).
 * Read the paper before the discussion and write a 1-page reflection on the paper, including a summary, strengths, limitations, and suggestions.
 
 ### Discussion
@@ -79,12 +79,12 @@ You will present and discuss ideas for future research directions in AI and ethi
 * 20 in-class discussions (see schedule).
 * Organize a group of 4 people, and have time to present what you read and discuss
 * All groups should submit their result at the end of class.
-* See the details on this [page](https://uilab-kaist.github.io/cs575-ethics-spring-2023/discussion).
+* See the details on this [page](https://uilab-kaist.github.io/cs575-ethics-spring-2024/discussion).
 
 ### Team Project
 Team project will be a major part of the class, especially during the second half.
 Projects will be basically replications or modifications of recent research in AI Ethics.
-See the details on this [page](https://uilab-kaist.github.io/cs575-ethics-spring-2023/project).
+See the details on this [page](https://uilab-kaist.github.io/cs575-ethics-spring-2024/project).
 
 ### Policy on Large Language Models
 Recent progress in large-scale language models (LLM), such as ChatGPT, motivates explicit policies.
