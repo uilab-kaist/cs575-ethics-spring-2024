@@ -1,16 +1,16 @@
-# [CS575] AI Ethics / Spring 2023
+# [CS575] AI Ethics / Spring 2024
 
 > Please send email to cs575.uilab@gmail.com regarding any class-related issues with "[CS575]" to the title.
 
 All contents in this document are tentative.
-
+## Important Schedule about the lectures.
+* [20230228]No offline class today; Instead, watch the recorded video.
+* [20230304] No offline class today; The lecture will be via Zoom. [Zoom Link](https://kaist.zoom.us/my/aliceatkaist)
+* [20230306] No Class ! Have a break :) 
 ## Announcement
-* [20230314] No offline class on Mar 22 (Wed); Instead, watch the recorded video and submit your discussion report on Google Drive by the end of the day (23:59, Mar 22)
-* [20230314] Check out the schedule for paper presentation, discussion presentation, discussion questions, reading reflections
-* [20230308] Submit two Google Forms ([Group](https://forms.gle/vSgkkBsX1LZ7PE3o8), [Individual](https://forms.gle/NRDtcrZ7ooxgE1cV9)) by 23:59 today
-* [20230306] No offline class today; Instead, watch the recorded video and submit your discussion report on Google Drive
-* [20230227] Submit [Lecture 1 Survey](https://forms.gle/yTDHjoiphBSdQEwr8)
-* [20230227] Join slack channel: [Invitation Link](https://join.slack.com/t/cs575-2023-spring/shared_invite/zt-1pzkxd0qs-IMcnopU~o4u4DpwzhcXIVw)
+* [20230311] Submit Google Forms about team sign-up. ([Group](https://forms.gle/vSgkkBsX1LZ7PE3o8)) by 23:59 Mar 11(Mon).
+* [20230226] Submit [Lecture 1 Survey](https://forms.gle/yTDHjoiphBSdQEwr8)
+* [20230226] Join slack channel: [Invitation Link](https://join.slack.com/t/cs575-2023-spring/shared_invite/zt-1pzkxd0qs-IMcnopU~o4u4DpwzhcXIVw)
 
 ## COVID-19
 Most classes will be in-person but will be recorded for those who are not able to attend. Some classes may be online.
@@ -18,14 +18,14 @@ This course follows regulations regarding KAIST and the South Korean government.
 
 ## Teaching Staff
 * Lecturer: [Alice Oh](https://aliceoh9.github.io)
-* TA: [Haneul Yoo](https://haneul-yoo.github.io)
+* TA: Juhyun Oh, Eunsu Kim
 * Contact: cs575.uilab@gmail.com
 
 **Please send emails to cs575.uilab@gmail.com. We will not consider any class-related email arriving in our personal accounts. Please put "[CS575] to the title when you email. (e.g., [CS575] De we have a class on MM/DD?)**
 
 ## Time & Location
-* Mon/Wed 10:30 AM - 12:00 PM
-* Rm. 2443, E3-1 (Information Science and Electronics Bldg.)
+* Mon/Wed 14:30 PM - 16:00 PM
+* Rm. 2445, E3-1 (Information Science and Electronics Bldg.)
 
 ## Prerequisites
 * Knowledge of machine learning and deep learning (CS376, CS470, or CS570)
@@ -77,7 +77,7 @@ Students will lead peers to discuss the readings with thought-provoking question
 You will challenge the findings in the articles as to their accurate reporting and interpretation; you will discuss relevance to the current time and various locales with different cultural backgrounds.
 You will present and discuss ideas for future research directions in AI and ethics.
 * 20 in-class discussions (see schedule).
-* Organize a group of 3 people, and have time to present what you read and discuss
+* Organize a group of 4 people, and have time to present what you read and discuss
 * All groups should submit their result at the end of class.
 * See the details on this [page](https://uilab-kaist.github.io/cs575-ethics-spring-2023/discussion).
 
