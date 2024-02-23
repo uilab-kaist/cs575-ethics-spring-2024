@@ -1,13 +1,18 @@
 # [CS575] AI Ethics / Spring 2024
 
 All contents in this document are tentative.
+## Important Links for the lectures.
+* [Zoom Link](https://kaist.zoom.us/my/aliceatkaist)
+* [Google Drive](https://drive.google.com/drive/u/1/folders/1l3WvXKmgAuOI7ZV4OFlQtyMWFKsmw4Rd)
+  * All the lecture materials and assignments will be shared in the google drive.
+
 ## Important Schedule about the lectures.
 * [20240228] No offline class today; Instead, watch the recorded video.
-* [20240304] No offline class today; The lecture will be via Zoom. [Zoom Link](https://kaist.zoom.us/my/aliceatkaist)
+* [20240304] No offline class today; The lecture will be via Zoom. 
 * [20240306] No Class ! Have a break :) 
 ## Announcement
-* [20240311] Submit Google Forms about team sign-up. ([Group](https://docs.google.com/forms/d/e/1FAIpQLSe2LjwjLIfpsOHMcI9CgXgrveSE7kcCdE9hv6YHDY4gRYqFhw/viewform?usp=sf_link)) by 23:59 Mar 11(Mon).
-* [20240226] Submit [Lecture 1 Survey](https://forms.gle/JiiMx4U3UfhDG2YVA)
+* [20240311] Submit Google Forms about team sign-up. ([Group](https://forms.gle/EXjmEGxRvYueyTAK6)) by 23:59 Mar 11(Mon).
+* [20240226] Submit [Lecture 1 Survey](https://forms.gle/qTLuQ1mtqTwyai327)
 * [20240226] Join slack channel: [Invitation Link] TBD
 
 ## Teaching Staff
