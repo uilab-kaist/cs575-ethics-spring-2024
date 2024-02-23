@@ -1,7 +1,5 @@
 # [CS575] AI Ethics / Spring 2024
 
-> Please send email to cs575.uilab@gmail.com regarding any class-related issues with "[CS575]" to the title.
-
 All contents in this document are tentative.
 ## Important Schedule about the lectures.
 * [20240228] No offline class today; Instead, watch the recorded video.
