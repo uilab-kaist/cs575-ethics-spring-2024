@@ -30,22 +30,22 @@ All contents in this document are tentative.
 
 |  week |                    Day                    |                Type             |                      Topic                    |      notes     |           Project          |
 |:-----:|:-----------------------------------------:|:-------------------------------:|:---------------------------------------------:|:--------------:|:--------------------------:|
-|   1   | 02/27                                     | Introduction | Introduction | 03/01 Holiday | |
-|   2   | 03/06, 03/08                              | Discussion <br/> Discussion     | Bias in AI/ML Systems | | Choose Teams |
-|   3   | 03/13, 03/15                              | Discussion  <br/> Discussion    | Generative AI <br/>Tocixity and Misinformation in Generative Models | | |
-|   4   | 03/20, 03/22                              | Discussion  <br/> Discussion    | Privacy Issues in Data & Models      | | |
-|   5   | 03/27, 03/29                              | Discussion  <br/> Discussion    | Explainable AI         | | |
-|   6   | 04/03, 04/05                              | Discussion  <br/> Discussion    | Trustworthy AI                             | | |
-|   7   | 04/10, 04/12                              | Project Presentations <br/> Project Presentations | | | Proposal, Peer-review |
-|   8   | 04/17, 04/19                              | No Class (Midterm Exam) | | | |
-|   9   | 04/24, 04/26                              | Discussion  <br/> Discussion    | Societal Impact & AI Divide | | |
-|   10  | 05/01, 05/03                              | Discussion  <br/> Discussion    | Societal Impact & Environment | | |
-|   11  | 05/08, 05/10                              | Project Presentations <br/> Project Presentations    | | | Project Progress, Peer-review |
-|   12  | 05/15, 05/17                              | Discussion  <br/> Discussion    | AI for Social Good (Healthcare, Drug Discovery, and Food Production) | | |
-|   13  | 05/22, 05/24                              | Discussion  <br/> Discussion    | AI for Social Good (Environment, Education, and Democracy) | | |
-|   14  | 05/29, 05/31                              | Wrap-up     <br/> Wrap-up       |	| | |
-|   15  | 06/05, 06/07                              | Project Presentations <br/> Project Presentations | | | Final Presentation, Peer-review|
-|   16  | 06/12, 06/14                              | No Class (Final Exam)           |                           | | Final Report |
+|   1   | 02/26, 2/28                               | Introduction                    | Introduction                                   | 2/28 Recorded Video | |
+|   2   | 03/04                                     | Discussion <br/> Discussion     | Generative AI |03/04 Recorded Video | |
+|   3   | 03/11, 03/13                              | Discussion  <br/> Discussion    | Bias & Fairness | | |
+|   4   | 03/18, 03/20                              | Discussion  <br/> Discussion    | Safety (toxicity, jailbreak)      | | |
+|   5   | 03/25, 03/27                              | Discussion  <br/> Discussion    | Truthfulness (misinformation, hallucination, sycophancy)        | | |
+|   6   | 04/01, 04/03                              | Discussion  <br/> Discussion    | Privacy Issues in Data & Models                             | | |
+|   7   | 04/8                                      | Project Presentations <br/> Project Presentations | |04/08 Recorded Video | Proposal, Peer-review |
+|   8   | 04/10, 04/17                              | No Class (Midterm Exam) | | | |
+|   9   | 04/22, 04/24                              | Discussion  <br/> Discussion    | Transperacy & Limitation of Current Gen AI, Explainable AI | | |
+|   10  | 04/29, 05/01                              | Project Presentations  <br/> Discussion    | Project Progress & Peer-review, Societal Impact & AI Divide |04/29 Recorded Video | |
+|   11  | 05/08                                     | Discussion    | | | Societal Impact & Environment |
+|   12  | 05/13                                     | Discussion     | AI for Social Good (Healthcare)| | |
+|   13  | 05/20                                     | Discussion   | Guest Lecture  | | |
+|   14  | 05/27, 05/29                              | Discussion     <br/> Wrap-up       |AI for Social Good (Education and Democracy)	| | |
+|   15  | 06/03, 06/05                              | Project Presentations | | | Final Presentation, Peer-review|
+|   16  | 06/12, 06/14                              | No Class (Final Exam)     |                           | | Final Report |
 
 ## Course
 This course includes lectures, readings, discussions, quizzes, and team projects.
