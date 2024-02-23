@@ -71,7 +71,7 @@ Students will lead peers to discuss the readings with thought-provoking question
 You will challenge the findings in the articles as to their accurate reporting and interpretation; you will discuss relevance to the current time and various locales with different cultural backgrounds.
 You will present and discuss ideas for future research directions in AI and ethics.
 * 20 in-class discussions (see schedule).
-* Organize a group of 4 people, and have time to present what you read and discuss
+* Organize a group of 3-4 people, and have time to present what you read and discuss
 * All groups should submit their result at the end of class.
 * See the details on this [page](https://uilab-kaist.github.io/cs575-ethics-spring-2024/discussion).
 
