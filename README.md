@@ -6,8 +6,8 @@ All contents in this document are tentative.
 * [20240304] No offline class today; The lecture will be via Zoom. [Zoom Link](https://kaist.zoom.us/my/aliceatkaist)
 * [20240306] No Class ! Have a break :) 
 ## Announcement
-* [20240311] Submit Google Forms about team sign-up. ([Group](https://forms.gle/dtN4ZxmwqngsvLA88)) by 23:59 Mar 11(Mon).
-* [20240226] Submit [Lecture 1 Survey](https://forms.gle/rr4DGERu1E5ZQ6qs8)
+* [20240311] Submit Google Forms about team sign-up. ([Group](https://docs.google.com/forms/d/e/1FAIpQLSe2LjwjLIfpsOHMcI9CgXgrveSE7kcCdE9hv6YHDY4gRYqFhw/viewform?usp=sf_link)) by 23:59 Mar 11(Mon).
+* [20240226] Submit [Lecture 1 Survey](https://forms.gle/JiiMx4U3UfhDG2YVA)
 * [20240226] Join slack channel: [Invitation Link] TBD
 
 ## Teaching Staff
