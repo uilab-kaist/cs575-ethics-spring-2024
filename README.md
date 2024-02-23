@@ -15,9 +15,8 @@ All contents in this document are tentative.
 ## Teaching Staff
 * Lecturer: [Alice Oh](https://aliceoh9.github.io)
 * TA: Juhyun Oh, Eunsu Kim
-* Contact: cs575.uilab@gmail.com
-
-**Please send emails to cs575.uilab@gmail.com. We will not consider any class-related email arriving in our personal accounts. Please put "[CS575] to the title when you email. (e.g., [CS575] De we have a class on MM/DD?)**
+* Contact: Through slack channel
+**Please send emails to kes0317@kaist.ac.kr only before signing up for slack.Please put "[CS575] to the title when you email. (e.g., [CS575] De we have a class on MM/DD?)**
 
 ## Time & Location
 * Mon/Wed 14:30 PM - 16:00 PM
