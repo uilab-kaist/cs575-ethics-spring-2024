@@ -35,7 +35,7 @@ All contents in this document are tentative.
 |:-----:|:-----------------------------------------:|:-------------------------------:|:---------------------------------------------:|:--------------:|:--------------------------:|
 |   1   | 02/26, 2/28                               | Introduction                    | Introduction                                   | 2/28 Recorded Video | |
 |   2   | 03/04                                     | Discussion <br/> Discussion     | Generative AI |03/04 Recorded Video | |
-|   3   | 03/11, 03/13                              | Discussion  <br/> Discussion    | Bias & Fairness | | |
+|   3   | 03/11, 03/13                              | Discussion  <br/> Discussion    | Bias & Fairness | |3/11 Form teams & sign-up|
 |   4   | 03/18, 03/20                              | Discussion  <br/> Discussion    | Safety (toxicity, jailbreak)      | | |
 |   5   | 03/25, 03/27                              | Discussion  <br/> Discussion    | Truthfulness (misinformation, hallucination, sycophancy)        | | |
 |   6   | 04/01, 04/03                              | Discussion  <br/> Discussion    | Privacy Issues in Data & Models                             | | |

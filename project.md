@@ -1,24 +1,24 @@
 # CS575-ethics-spring-2022-team-project
 
 ## Schedule
-- Week  3 (3/13): **Team matching, Topic exploration**
-- Week  8 (4/10, 4/12): **Project proposal, Peer grading**
-  - Slides submission deadline: **23:59, April 9, 2023**
-  - Peer grading: Real-time
-- Week 11 (5/8, 5/10): **Progress Update, Peer grading**
-  - Slides submission deadline: **23:59, May 7, 2023**
-  - Peer grading: Real-time
-- Week 15 (6/5, 6/7): **Final presentation, Final report, Peer grading, Teamwork report**
-  - Slides submission deadline: **23:59, June 4, 2023**
+- Week  3 (3/11): **Team matching, Topic exploration**
+- Week  8 (4/8): **Project proposal, Peer grading**
+  - Slides submission deadline: **23:59, April 7, 2024**
+  - Peer grading: Recorded Video
+- Week 11 (4/29): **Progress Update, Peer grading**
+  - Slides submission deadline: **23:59, 4/28, 2024**
+  - Peer grading: Recorded Video
+- Week 15 (6/3, 6/5): **Final presentation, Final report, Peer grading, Teamwork report**
+  - Slides submission deadline: **23:59, June 2, 2024**
   - Final report submission deadline: **23:59, June 14, 2923**
-  -  Peer grading: Real-time
+  -  Peer grading: Recorded Video
   -  Teamwork report: Google form
 
 ## Goal
 This project aims to replicate an existing paper on ethical issues in machine learning, and then make meaningful improvements/extensions in terms of research question, machine learning model, features, datasets, or evaluation metrics.
 
 ## Teams
-This is a team-based project. Please form teams of **3 students** by **March 13**. If you need help forming teams, advertise yourself and find your teammate in **#team-matching**.
+This is a team-based project. Please form teams of **3~4 students** by **March 11**. If you need help forming teams, advertise yourself and find your teammate in **#team-matching**.
 
 ## Project Grading (50% of Course Grade)
 - **Proposal presentation**: 5%
@@ -88,7 +88,7 @@ Give a **10-15 minute final presentation** and submit a **4-6 page (+ unlimited 
 ## Peer Grading
 - We will use Google form and it will be done in the lecture.
 - Everyone (individually) should grade and comment on
-  - [Proposal presentations](https://forms.gle/NYkBLCXCQu4heGMB8)
+  - [Proposal presentations](https://forms.gle/tP6UXDCyxMWwiVv28)
   - Progress presentations
   - Final presentations & reports
 
