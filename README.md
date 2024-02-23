@@ -9,7 +9,8 @@ All contents in this document are tentative.
 ## Important Schedule about the lectures.
 * [20240228] No offline class today; Instead, watch the recorded video.
 * [20240304] No offline class today; The lecture will be via Zoom. 
-* [20240306] No Class ! Have a break :) 
+* [20240306] No Class ! Have a break :)
+  
 ## Announcement
 * [20240311] Submit Google Forms about team sign-up. ([Group](https://forms.gle/EXjmEGxRvYueyTAK6)) by 23:59 Mar 11(Mon).
 * [20240226] Submit [Lecture 1 Survey](https://forms.gle/qTLuQ1mtqTwyai327)
