@@ -1,4 +1,4 @@
-# CS575-ethics-spring-2022-team-project
+# CS575-ethics-spring-2024-team-project
 
 ## Schedule
 - Week  3 (3/11): **Team matching, Topic exploration**
