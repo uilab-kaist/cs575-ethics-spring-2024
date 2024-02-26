@@ -19,7 +19,7 @@ All contents in this document are tentative.
 ## Teaching Staff
 * Lecturer: [Alice Oh](https://aliceoh9.github.io)
 * TA: Juhyun Oh, Eunsu Kim
-* Contact: Through slack channel
+* Contact: Through slack "qa" channel
 
 **Please send emails to kes0317@kaist.ac.kr only before signing up for slack.Please put "[CS575] to the title when you email. (e.g., [CS575] De we have a class on MM/DD?)**
 
