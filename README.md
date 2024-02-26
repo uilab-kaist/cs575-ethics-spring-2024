@@ -14,7 +14,7 @@ All contents in this document are tentative.
 ## Announcement
 * [20240311] Submit Google Forms about team sign-up. ([Group](https://forms.gle/EXjmEGxRvYueyTAK6)) by 23:59 Mar 11(Mon).
 * [20240226] Submit [Lecture 1 Survey](https://forms.gle/qTLuQ1mtqTwyai327)
-* [20240226] Join slack channel: [Invitation Link] TBD
+* [20240226] Join slack channel: [Invitation Link](https://join.slack.com/t/slack-xi66127/shared_invite/zt-2dnaw4x9t-9YTAMLke4ubsoZomy3HrAw)
 
 ## Teaching Staff
 * Lecturer: [Alice Oh](https://aliceoh9.github.io)
