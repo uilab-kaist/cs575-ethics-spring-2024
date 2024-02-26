@@ -8,7 +8,7 @@ All contents in this document are tentative.
 
 ## Important Schedule about the lectures.
 * [20240228] No offline class today; Instead, watch the recorded video.
-* [20240304] No offline class today; The lecture will be via Zoom. 
+* [20240304] No offline class today; Instead, watch the recorded video. 
 * [20240306] No Class ! Have a break :)
   
 ## Announcement
