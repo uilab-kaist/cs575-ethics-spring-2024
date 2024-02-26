@@ -69,7 +69,7 @@ Lecturer or student groups will give a lecture on each topic by each day.
 ### Reading Reflections
 Students will read, present, and think about the latest research from the reading list published in AI and ML conferences (e.g., NeurIPS, ICLR, ACL, CVPR, FAccT) related to ethical considerations.
 Readings may also include blog posts, articles in the media, online forum discussions, and publications from global governing bodies.
-* Choose a paper related to the lecture topic from the [reading list](https://docs.google.com/spreadsheets/d/1xi2Z7hNtFZtil06slEcVAPT-QZEp4g-s/edit?usp=sharing&ouid=101739498740245968759&rtpof=true&sd=true).
+* Choose a paper related to the lecture topic from the [reading list](https://docs.google.com/spreadsheets/d/1xi2Z7hNtFZtil06slEcVAPT-QZEp4g-s/edit?usp=sharing&ouid=101739498740245968759&rtpof=true&sd=true)(https://docs.google.com/spreadsheets/d/1xi2Z7hNtFZtil06slEcVAPT-QZEp4g-s/edit#gid=1112436071).
 * Read the paper before the discussion and write a 1-page reflection on the paper, including a summary, strengths, limitations, and suggestions.
 
 ### Discussion
