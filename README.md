@@ -32,24 +32,39 @@ All contents in this document are tentative.
 
 ## Schedule (Subject to Change)
 
-|  week |                    Day                    |                Type             |                      Topic                    |      notes     |           Project          |
-|:-----:|:-----------------------------------------:|:-------------------------------:|:---------------------------------------------:|:--------------:|:--------------------------:|
-|   1   | 02/26, 2/28                               | Introduction                    | Introduction                                   | 2/28 Recorded Video | |
-|   2   | 03/04                                     | Discussion <br/> Discussion     | Generative AI |03/04 Recorded Video | |
-|   3   | 03/11, 03/13                              | Discussion  <br/> Discussion    | Bias & Fairness | |3/11 Form teams & sign-up|
-|   4   | 03/18, 03/20                              | Discussion  <br/> Discussion    | Safety (toxicity, jailbreak)      | | |
-|   5   | 03/25, 03/27                              | Discussion  <br/> Discussion    | Truthfulness (misinformation, hallucination, sycophancy)        | | |
-|   6   | 04/01, 04/03                              | Discussion  <br/> Discussion    | Privacy Issues in Data & Models                             | | |
-|   7   | 04/8                                      | Project Presentations <br/> Project Presentations | |04/08 Recorded Video | Proposal, Peer-review |
-|   8   | 04/10, 04/17                              | No Class (Midterm Exam) | | | |
-|   9   | 04/22, 04/24                              | Discussion  <br/> Discussion    | Transperacy & Limitation of Current Gen AI, Explainable AI | | |
-|   10  | 04/29, 05/01                              | Project Presentations  <br/> Discussion    | Project Progress & Peer-review, Societal Impact & AI Divide |04/29 Recorded Video | |
-|   11  | 05/08                                     | Discussion    | | | Societal Impact & Environment |
-|   12  | 05/13                                     | Discussion     | AI for Social Good (Healthcare)| | |
-|   13  | 05/20                                     | Discussion   | Guest Lecture  | | |
-|   14  | 05/27, 05/29                              | Discussion     <br/> Wrap-up       |AI for Social Good (Education and Democracy)	| | |
-|   15  | 06/03, 06/05                              | Project Presentations | | | Final Presentation, Peer-review|
-|   16  | 06/12, 06/14                              | No Class (Final Exam)     |                           | | Final Report |
+|  # | Date |                           Topic                          | Reading |           Presenter           |                Notes               |
+|:--:|:----:|:--------------------------------------------------------:|:-------:|:-----------------------------:|:----------------------------------:|
+|  1 | 2/26 |                 Introduction to AI Ethics                |         |            Lecturer           |                                    |
+|   | 2/28 |                          NO CLASS                         |         |                     |                     |
+|   |  3/4 |                        NO CLASS                     |         |                     |                    |
+|    |  3/6 |                         NO CLASS                         |         |                               |                                    |
+| 2 | 3/11 |                         Overview                         |         |            Lecturer           |        Form teams & sign-up        |
+|  3 | 3/13 |                       Generative AI                      |         |            Lecturer           |                                    |
+|  4 | 3/18 |                      Bias & Fairness                     |         |            Lecturer           |                                    |
+|  5 | 3/20 |                      Bias & Fairness                     |         |            Lecturer           |                                    |
+|  6 | 3/25 |               Safety (toxicity, jailbreak)               |         |            Students           |                                    |
+|  7 | 3/27 |               Safety (toxicity, jailbreak)               |         |            Students           |                                    |
+| 8 |  4/1 | Truthfulness (misinformation, hallucination, sycophancy) |         |            Students           |                                    |
+| 9 |  4/3 | Truthfulness (misinformation, hallucination, sycophancy) |         |            Students           |                                    |
+|    |  4/8 |                     Project Proposal                     |         |          All students         |           Recorded Video           |
+|    | 4/10 |                         NO CLASS                         |         |                               |  General Election (국회의원 선거)  |
+|    | 4/15 |                         NO CLASS                         |         |                               |         Midterm Exam Period        |
+|    | 4/17 |                         NO CLASS                         |         |                               |         Midterm Exam Period        |
+| 10 | 4/22 |              Privacy Issues in Data & Models             |         |            Students           |                                    |
+| 11 | 4/24 |              Privacy Issues in Data & Models             |         |            Students           |                                    |
+| 12   | 4/29 |        Transperacy & Limitation of Current Gen AI        |         |          All students         |           Recorded Video           |
+| 13 |  5/1 |                      Explainable AI                      |         |            Students           |                                    |
+|    |  5/6 |                         NO CLASS                         |         |                               |    Substitute Holiday (어린이날)   |
+| 14 |  5/8 |                     Project Progress                     |         |            Students           |                                    |
+| 15 | 5/13 |                Societal Impact & AI Divide               |         |            Students           |                                    |
+| 16 | 5/20 |                    AI for Social Good                    |         | Invited Lecturer (Seth Lazor) |                                    |
+|    | 5/22 |                         NO CLASS                         |         |                               | Substitute Holidays (부처님오신날) |
+| 17 | 5/27 |               Societal Impact & Environment              |         |            Students           |                                    |
+| 18 | 5/29 |                          Wrap-up                         |         |            Lecturer           |                                    |
+|    |  6/3 |                    Final Presentations                   |         |          All students         |              In class              |
+|    |  6/5 |                    Final Presentations                   |         |          All students         |              In class              |
+|    | 6/10 |                         NO CLASS                         |         |                               |          Final Exam Period         |
+|    | 6/12 |                         NO CLASS                         |         |                               |          Final Exam Period         |
 
 ## Course
 This course includes lectures, readings, discussions, quizzes, and team projects.
