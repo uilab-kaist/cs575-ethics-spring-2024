@@ -49,7 +49,7 @@ You should present your work in presentation session.
 - Covering any of the following topics: bias, fairness, social impact, interpretability, privacy, deepfake/generative modeling, social good
 - From ML/NLP/AI conferences including ACL, EMNLP, NAACL, Coling, CVPR, ICCV, ECCV, NeurIPS, AAAI, IJCAI, ICML, ICLR
 - If your paper deviates from the above criteria, or if your project is not based on replication of a previous paper, please email the teaching staff
-
+- You can choose the paper in [Reading List](https://docs.google.com/spreadsheets/d/1xi2Z7hNtFZtil06slEcVAPT-QZEp4g-s/edit#gid=1112436071), but cannot choose the paper that chosen in another task(ex. discussion)
 **Based on the paper, there are two options you can choose:**
 1. Replicate their method and apply it to your own research problem. 
 2. Replicate their method and improve it. You should find a problematic issue of the existing work and try to resolve/alleviate it.
