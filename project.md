@@ -5,8 +5,8 @@
 - Week  8 (4/8): **Project proposal, Peer grading**
   - Slides submission deadline: **23:59, April 7, 2024**
   - Peer grading: Recorded Video
-- Week 11 (4/29): **Progress Update, Peer grading**
-  - Slides submission deadline: **23:59, 4/28, 2024**
+- Week 11 (5/8): **Progress Update, Peer grading**
+  - Slides submission deadline: **23:59, 5/7, 2024**
   - Peer grading: Recorded Video
 - Week 15 (6/3, 6/5): **Final presentation, Final report, Peer grading, Teamwork report**
   - Slides submission deadline: **23:59, June 2, 2024**
