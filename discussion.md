@@ -21,7 +21,7 @@ You will be asked to
 - Everyone should read the selected papers before the discussion.
 
 ## Discussion
-- Each team consisting of three students will do a discussion starting from the prompt.
+- Each team will do a discussion starting from the prompt.
 - The team will be the same when working on a project.
 - Students will be asked to be randomly grouped in every class until the team is signed up.
 - Every team should write the discussion report on Google Drive during the class.
