@@ -41,7 +41,7 @@ All contents in this document are tentative.
 |  4 | 3/11 |                         Overview                         |         |            Lecturer           |        Form teams & sign-up        |
 |  5 | 3/13 |                       Generative AI                      |         |            Lecturer           |                                    |
 |  6 | 3/18 |                      Bias & Fairness                     |         |            Lecturer           |                                    |
-|  7 | 3/20 |                      Bias & Fairness                     |         |            Lecturer           |                                    |
+|  7 | 3/20 |              Mitigating Social Harms in LLMs             |         | Invited Lecturer (Seth Lazor) |                                    |
 |  8 | 3/25 |               Safety (toxicity, jailbreak)               |         |            Students           |                                    |
 |  9 | 3/27 |               Safety (toxicity, jailbreak)               |         |            Students           |                                    |
 | 10 |  4/1 | Truthfulness (misinformation, hallucination, sycophancy) |         |            Students           |                                    |
@@ -57,7 +57,7 @@ All contents in this document are tentative.
 |    |  5/6 |                         NO CLASS                         |         |                               |    Substitute Holiday (어린이날)   |
 |    |  5/8 |                     Project Progress                     |         |            Students           |                                    |
 | 16 | 5/13 |                Societal Impact & AI Divide               |         |            Students           |                                    |
-| 17 | 5/20 |                    AI for Social Good                    |         | Invited Lecturer (Seth Lazor) |                                    |
+| 17 | 5/20 |                    AI for Social Good                    |         |            Students           |                                     |
 |    | 5/22 |                         NO CLASS                         |         |                               | Substitute Holidays (부처님오신날) |
 | 18 | 5/27 |               Societal Impact & Environment              |         |            Students           |                                    |
 | 19 | 5/29 |                          Wrap-up                         |         |            Lecturer           |                                    |
