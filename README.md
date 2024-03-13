@@ -76,7 +76,7 @@ Students will be asked to do the following things.
 | Paper Presentation        | 30-minute presentation with 1 or 2 papers on a topic according to the schedule (will depend on the amount of content in the papers) | 1x          | Team       |
 | Discussion Prompt         | Write 3 discussion prompts about a paper                                                                                                | 2x          | Individual |
 | Discussion Presentation   | Present the discussion of the paper based on their report                                                                                | 1x          | Team       |
-| Paper Reading Reflections | Write a reflections of the paper                                                                                                          | 2x          | Individual |
+| Paper Reading Reflections | Write reflections of the paper                                                                                                          | 2x          | Individual |
 
 ### Lecture
 Lecturer or student groups will give a lecture on each topic by each day.
