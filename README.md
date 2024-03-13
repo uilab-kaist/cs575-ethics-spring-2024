@@ -41,7 +41,7 @@ All contents in this document are tentative.
 |  4 | 3/11 |                         Overview                         |         |            Lecturer           |        Form teams & sign-up        |
 |  5 | 3/13 |                       Generative AI                      |         |            Lecturer           |                                    |
 |  6 | 3/18 |                      Bias & Fairness                     |         |            Lecturer           |                                    |
-|  7 | 3/20 |              Mitigating Social Harms in LLMs             |         | Invited Lecturer (Seth Lazor) |                                    |
+|  7 | 3/20 |              Mitigating Social Harms in LLMs             |         | Invited Lecturer (Sachin Kumar) |                                    |
 |  8 | 3/25 |               Safety (toxicity, jailbreak)               |         |            Students           |                                    |
 |  9 | 3/27 |               Safety (toxicity, jailbreak)               |         |            Students           |                                    |
 | 10 |  4/1 | Truthfulness (misinformation, hallucination, sycophancy) |         |            Students           |                                    |
